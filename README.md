@@ -1,0 +1,2 @@
+# minimux-bonziworld
+a server
